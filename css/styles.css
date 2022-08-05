@@ -1,0 +1,164 @@
+body{
+   font-family: 'Montserrat';
+}
+
+
+h1{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+
+h2{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+ }
+ 
+h3{
+    font-family: 'Montserrat';
+   
+}
+
+h5{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 1.75rem;
+  
+}
+p{
+   color: #8f8f8f;
+}
+
+.about-me-button{
+    margin: 5% 3% 5% 0%;
+}
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+#title{
+    background-color: #2E4C6D;
+    color: #fff;
+}
+
+.title-image{
+    width: 70%;
+    border-radius: 100%;
+    right: 30%;
+
+}
+
+/* Navigation Bar */
+
+.navbar{
+   padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-right: 300px;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: 100;
+}
+.navbar-collapse{
+    margin-left: 50px;
+}
+
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+}
+
+/* About Me */
+#about-me{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.about-me-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    margin-bottom: 1rem;
+}
+
+#skills{
+    padding: 3% 15%;
+    background-color: #2E4C6D;
+    color: #fff;
+    text-align: center;
+}
+.skill-box{
+    padding: 5%;
+    text-align: center;
+}
+
+#projects{
+    text-align: center;
+    background-color: #fff;
+}
+
+.project-image{
+    width: 80%;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding:3% 15%;
+}
+.carousel-exp{
+    color: black; 
+    margin-top: 5px;
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.control{
+    background-color: #8f8f8f;
+    height: 100%;
+    width: 10%;
+
+}
+
+.project-heading{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #2E4C6D;
+    
+}
+.social-icon{
+    margin: 0px 20px 50px 20px;
+}
+.social-icon:hover{
+    background-color:#fff;
+}
+
+.copyright{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    color: #fff;
+}
